@@ -1,0 +1,1 @@
+In this example I used "new rails new_options -B" to skip the bundle install.
